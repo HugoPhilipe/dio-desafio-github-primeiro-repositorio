@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositório do desafio de Github da Digital Innovation One
 Desafio de Projeto sobre GitHub
